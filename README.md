@@ -1,0 +1,2 @@
+## Iniciando GIT
+$ git init
